@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/clerk.png</file>
+        <file>image/shelfempty01.png</file>
+        <file>image/shelfempty02.png</file>
+        <file>image/shelfempty03.png</file>
+        <file>image/shelffull01.png</file>
+        <file>image/shelffull02.png</file>
+        <file>image/shelffull03.png</file>
+        <file>image/shelfmid01.png</file>
+        <file>image/shelfmid02.png</file>
+        <file>image/shelfmid03.png</file>
+        <file>image/shop.png</file>
+        <file>image/shelffull04.png</file>
+    </qresource>
+</RCC>
